@@ -19,7 +19,7 @@ A Java-based project that lets you write and run scripts/projects in Perl, Lua, 
 2. Add your scripts to the corresponding folder:
     - Perl: `perl_projects/`
     - Lua: `lua_projects/`
-    - Kotlin: `kotlin_projects/`
+    - Kotlin: `kotlin_proj/`
 3. Run the Java CLI:
     ```
     java -cp target/classes com.example.MultiLangRunner
